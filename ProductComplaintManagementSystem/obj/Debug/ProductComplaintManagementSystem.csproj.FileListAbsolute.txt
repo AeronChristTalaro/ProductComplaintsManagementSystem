@@ -1,0 +1,7 @@
+C:\Users\NEC\source\repos\ProductComplaintManagementSystem\ProductComplaintManagementSystem\bin\Debug\ProductComplaintManagementSystem.exe.config
+C:\Users\NEC\source\repos\ProductComplaintManagementSystem\ProductComplaintManagementSystem\bin\Debug\ProductComplaintManagementSystem.exe
+C:\Users\NEC\source\repos\ProductComplaintManagementSystem\ProductComplaintManagementSystem\bin\Debug\ProductComplaintManagementSystem.pdb
+C:\Users\NEC\source\repos\ProductComplaintManagementSystem\ProductComplaintManagementSystem\obj\Debug\ProductComplaintManagementSystem.csprojAssemblyReference.cache
+C:\Users\NEC\source\repos\ProductComplaintManagementSystem\ProductComplaintManagementSystem\obj\Debug\ProductComplaintManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\NEC\source\repos\ProductComplaintManagementSystem\ProductComplaintManagementSystem\obj\Debug\ProductComplaintManagementSystem.exe
+C:\Users\NEC\source\repos\ProductComplaintManagementSystem\ProductComplaintManagementSystem\obj\Debug\ProductComplaintManagementSystem.pdb
